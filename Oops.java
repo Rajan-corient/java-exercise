@@ -1,5 +1,3 @@
-import java.io.ObjectInputStream.GetField;
-
 class Student {
     String name;
     int age;
