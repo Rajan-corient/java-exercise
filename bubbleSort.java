@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class bubbleSort {
+public class BubbleSort {
 
     public static void swap(int[]arr, int xj, int yj) {
         int temp = arr[xj];
